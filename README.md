@@ -51,17 +51,17 @@ O template do projeto foi pensado em grupo e fizemos um esboço à mão do qe pr
 
 **Autor**:
  Apenas tem acesso a algumas páginas da plataforma, sendo elas:
-  -publicações
-  -as publicações dele 
-  -página dos favoritos 
-  -Insert de uma publicação
+  * publicações
+  * as publicações dele 
+  * página dos favoritos 
+  * Insert de uma publicação
   Funcionalidades de gestão de publicações e/ou utilizadores da página os Autores não tem essas permissões.
   Ao nível de comentários um autor apenas pode eliminar um comentário do qual é autor.
 
 **Leitor**:
   Apenas tem acesso a algumas páginas da plataforma, sendo elas:
-   -publicações
-   -ágina dos favoritos 
+   - publicações
+   - ágina dos favoritos 
   Funcionalidades de gestão de publicações e/ou utilizadores da página os Leitores não tem essas permissões.
   Ao nível de comentários um autor apenas pode eliminar um comentário do qual é autor.
   A diferença para os Autores é que não podem escrever publicações na página 
