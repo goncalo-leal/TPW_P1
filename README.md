@@ -51,20 +51,20 @@ O template do projeto foi pensado em grupo e fizemos um esboço à mão do qe pr
 
 **Autor**:
  Apenas tem acesso a algumas páginas da plataforma, sendo elas:
-  * publicações
-  * as publicações dele 
-  * página dos favoritos 
+  * Publicações
+  * As suas publicações 
+  * Página dos favoritos 
   * Insert de uma publicação
-  Funcionalidades de gestão de publicações e/ou utilizadores da página os Autores não tem essas permissões.
-  Ao nível de comentários um autor apenas pode eliminar um comentário do qual é autor.
+  * Funcionalidades de gestão de publicações e/ou utilizadores da página os Autores não tem essas permissões.
+  * Ao nível de comentários um autor apenas pode eliminar um comentário do qual é autor.
 
 **Leitor**:
   Apenas tem acesso a algumas páginas da plataforma, sendo elas:
-   - publicações
-   - ágina dos favoritos 
-  Funcionalidades de gestão de publicações e/ou utilizadores da página os Leitores não tem essas permissões.
-  Ao nível de comentários um autor apenas pode eliminar um comentário do qual é autor.
-  A diferença para os Autores é que não podem escrever publicações na página 
+   * Publicações
+   * Página dos favoritos 
+   * Funcionalidades de gestão de publicações e/ou utilizadores da página os Leitores não tem essas permissões.
+   * Ao nível de comentários um autor apenas pode eliminar um comentário do qual é autor.
+   * A diferença para os Autores é que não podem escrever publicações na página 
 
 **Utilizador sem loggin**:
   Apenas consegue visualizar a página das publicações e ver a página de cada publicação em especifico, sendo que não consegue fazer qualquer tipo de comentário.
