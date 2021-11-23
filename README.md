@@ -49,7 +49,26 @@ O template do projeto foi pensado em grupo e fizemos um esboço à mão do qe pr
 - A única diferença entre este e o administrador é que este não tem permissão para gerir utilizadores 'Admin', uma vez que este encontra-se abaixo deste na hierarquia de autorização.
 
 
+**Autor**:
+  Apenas tem acesso a algumas páginas da plataforma, sendo elas:
+    ->publicações
+    ->as publicações dele 
+    ->página dos favoritos 
+    ->Insert de uma publicação
+  Funcionalidades de gestão de publicações e/ou utilizadores da página os Autores não tem essas permissões.
+  Ao nível de comentários um autor apenas pode eliminar um comentário do qual é autor.
 
+**Leitor**:
+  Apenas tem acesso a algumas páginas da plataforma, sendo elas:
+    ->publicações
+    ->página dos favoritos 
+  Funcionalidades de gestão de publicações e/ou utilizadores da página os Leitores não tem essas permissões.
+  Ao nível de comentários um autor apenas pode eliminar um comentário do qual é autor.
+  A diferença para os Autores é que não podem escrever publicações na página 
+
+**Utilizador sem loggin**:
+  Apenas consegue visualizar a página das publicações e ver a página de cada publicação em especifico, sendo que não consegue fazer qualquer tipo de comentário.
+  A diferença para os Leitores é que não pode colocar favoritos , nem comentar as publicações.
 
 
 
@@ -75,3 +94,4 @@ Para aceder ao site: http://zer0sense.pythonanywhere.com/
 ### Notas:
 
 Para este projeto utilizamos um template gratuito chamado [Admin LTE](https://adminlte.io/) na versão 3.1.0. Este template encontra-se na pasta static.
+
